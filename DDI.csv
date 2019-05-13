@@ -1,340 +1,269 @@
-ID;Study ID;Reference;Grouping;Substrate;Perpetrator;Route Substrate;Route Perpetrator;Compartment;AUCR Avg;AUCR AvgType;AUCR Var;AUCR VarType;CmaxR Avg;CmaxR AvgType;CmaxR Var;CmaxR VarType;t_placebo_0;t_placebo_end;t_treatment_0;t_treatment_end;t Unit;Comment;Dose;Dose free API;Dose Unit;Route;Times of Administration;Times Unit;Comment Regimen;Administered form;Formulation type;Infusion duration [min];Water volume ingested for drug intake [mL];Comment on administration/formulation;Fasted/Fed state;Duration of fasting before drug administration [h];Duration of fasting after drug administration [h];Comment on food intake
-320;Kivistö 1997;https://www.ncbi.nlm.nih.gov/pubmed/9333111;with Perpetrator (Itraconazole);Buspirone;Itraconazole;PO;PO;Plasma;19.20;;;;13.40;;;;0;inf;79;inf;h;;100;;mg;PO;0-6-24-30-48-54-72-78;h;MD;;Sporanox;;150;;Fasted;2;3;wrt. administration of buspirone
-318;Kivistö 1997;https://www.ncbi.nlm.nih.gov/pubmed/9333111;with Perpetrator (Erythromycin);Buspirone;Erythromycin;PO;PO;Plasma;5.9;;;;5;;;;0;inf;79;inf;h;;500;;mg;PO;0-6-14-24-30-38-48-54-62-72-78;h;MD;erythromycin base;Ery-Max 250 mg enterocapsule;;150;;Fasted;2;3;wrt. administration of buspirone
-327;Lamberg 1998a;https://www.ncbi.nlm.nih.gov/pubmed/9923581;with Perpetrator (Fluvoxamine);Buspirone;Fluvoxamine;PO;PO;Plasma;2.35;;0.75-4.69;Range;2.01;;0.69-3.96;Range;0;inf;114;inf;h;;100;;mg;PO;0-24-48-72-96;h;SD;;Fevarin;;150;;Fasted;2;3;wrt. administration of buspirone
-329;Lamberg 1998b;https://www.ncbi.nlm.nih.gov/pubmed/9578186;with Perpetrator (Rifampicin);Buspirone;Rifampicin;PO;PO;Plasma;0.104;;0.063-0.145;95% CI;0.163;;0.101-0.226;95% CI;0;inf;113;inf;h;;30;;mg;PO;0-24-48-72-96;h;SD;;Rimapen Orion;;150;;Fasted;2;3;wrt. administration of buspirone
-331;Lamberg 1998c;https://www.ncbi.nlm.nih.gov/pubmed/9663178;with Perpetrator (Verapamil);Buspirone;Verapamil;PO;PO;Plasma;3.4;;;;3.4;;;;0;inf;30;inf;h;;80;;mg;PO;0-5-12-24-29;h;SD;;Verapamil tablet Orion;;150;;Fasted;2;3;wrt. administration of buspirone
-333;Lamberg 1998c;https://www.ncbi.nlm.nih.gov/pubmed/9663178;with Perpetrator (Diltiazem);Buspirone;Diltiazem;PO;PO;Plasma;5.5;;;;4.1;;;;0;inf;30;inf;h;;60;;mg;PO;0-5-12-24-29;h;SD;;Diltiazem tablet Orion;;150;;Fasted;2;3;wrt. administration of buspirone
-54;Backman 1996;https://www.ncbi.nlm.nih.gov/pubmed/8549036;with Perpetrator (Rifampicin);Midazolam;Rifampicin;0;;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-56;Backman 1998;https://www.ncbi.nlm.nih.gov/pubmed/9591931;Phase IV (during Perpetrator (Rifampicin));Midazolam;Rifampicin;0;;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-57;Backman 1998;https://www.ncbi.nlm.nih.gov/pubmed/9591931;Phase V (4 days after Perpetrator (Rifampicin));Midazolam;Rifampicin;0;;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-58;Backman 1998;https://www.ncbi.nlm.nih.gov/pubmed/9591931;Phase II (during Perpetrator (Itraconazole));Midazolam;Itraconazole;0;;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-59;Backman 1998;https://www.ncbi.nlm.nih.gov/pubmed/9591931;Phase III (4 days after Perpetrator (Itraconazole));Midazolam;Itraconazole;0;;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-113;Chung 2006;https://www.ncbi.nlm.nih.gov/pubmed/16580903;with Perpetrator (Rifampicin);Midazolam;Rifampicin;0;;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-114;Chung 2006;https://www.ncbi.nlm.nih.gov/pubmed/16580903;with Perpetrator (Ketoconazole);Midazolam;Ketoconazole;0;;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-116;Chung 2006;https://www.ncbi.nlm.nih.gov/pubmed/16580903;with Perpetrator (Rifampicin);Simvastatin;Rifampicin;0;;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-117;Chung 2006;https://www.ncbi.nlm.nih.gov/pubmed/16580903;with Perpetrator (Ketoconazole);Simvastatin;Ketoconazole;0;;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-129;Eap 2004;https://www.ncbi.nlm.nih.gov/pubmed/15114429;75 µg with Perpetrator (Rifampicin);Midazolam;Rifampicin;0;;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-130;Eap 2004;https://www.ncbi.nlm.nih.gov/pubmed/15114429;75 µg with Perpetrator (Ketoconazole);Midazolam;Ketoconazole;0;;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-132;Eap 2004;https://www.ncbi.nlm.nih.gov/pubmed/15114429;7.5 mg with Perpetrator (Rifampicin);Midazolam;Rifampicin;0;;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-133;Eap 2004;https://www.ncbi.nlm.nih.gov/pubmed/15114429;7.5 m with Perpetrator (Ketoconazole);Midazolam;Ketoconazole;0;;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-177;Gorski 2003;https://www.ncbi.nlm.nih.gov/pubmed/12966371;po with Perpetrator (Rifampicin);Midazolam;Rifampicin;0;;Whole Blood;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-179;Gorski 2003;https://www.ncbi.nlm.nih.gov/pubmed/12966371;iv with Perpetrator (Rifampicin);Midazolam;Rifampicin;0;;Whole Blood;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-215;Gurley 2006;https://www.ncbi.nlm.nih.gov/pubmed/16432272;with Perpetrator (Rifampicin);Midazolam;Rifampicin;0;;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-217;Gurley 2006;https://www.ncbi.nlm.nih.gov/pubmed/16432272;with Perpetrator (Clarithomycin);Midazolam;Clarithromycin;0;;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-221;Gurley 2008a;https://www.ncbi.nlm.nih.gov/pubmed/17495878;with Perpetrator (Rifampicin);Midazolam;Rifampicin;0;;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-223;Gurley 2008a;https://www.ncbi.nlm.nih.gov/pubmed/17495878;with Perpetrator (Clarithomycin);Midazolam;Clarithromycin;0;;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-227;Gurley 2008b;https://www.ncbi.nlm.nih.gov/pubmed/18214850;with Perpetrator (Rifampicin);Digoxin;Rifampicin;0;;Serum;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-229;Gurley 2008b;https://www.ncbi.nlm.nih.gov/pubmed/18214850;with Perpetrator (Clarithomycin);Digoxin;Clarithromycin;0;;Serum;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-280;Kharasch 2004;https://www.ncbi.nlm.nih.gov/pubmed/15536460;iv with Perpetrator (Rifampicin);Midazolam;Rifampicin;0;;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-283;Kharasch 2004;https://www.ncbi.nlm.nih.gov/pubmed/15536460;iv with Perpetrator (Rifampicin);Alfentanil;Rifampicin;0;;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-286;Kharasch 2004;https://www.ncbi.nlm.nih.gov/pubmed/15536460;po #1 with Perpetrator (Rifampicin);Midazolam;Rifampicin;0;;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-288;Kharasch 2004;https://www.ncbi.nlm.nih.gov/pubmed/15536460;po #1 (60 µg/kg) with Perpetrator (Rifampicin);Alfentanil;Rifampicin;0;;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-292;Kharasch 2004;https://www.ncbi.nlm.nih.gov/pubmed/15536460;po #2 (23 µg/kg) with Perpetrator (Rifampicin);Alfentanil;Rifampicin;0;;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-294;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;iv with Perpetrator (Rifampicin @ 5 mg);Midazolam;Rifampicin;0;;Plasma;;;;;;;;;0;inf;108;inf;;;;;;;;;;;;;;;;;;
-295;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;iv with Perpetrator (Rifampicin @ 10 mg);Midazolam;Rifampicin;0;;Plasma;;;;;;;;;0;inf;108;inf;;;;;;;;;;;;;;;;;;
-296;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;iv with Perpetrator (Rifampicin @ 25 mg);Midazolam;Rifampicin;0;;Plasma;;;;;;;;;0;inf;108;inf;;;;;;;;;;;;;;;;;;
-297;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;iv with Perpetrator (Rifampicin @ 75 mg);Midazolam;Rifampicin;0;;Plasma;;;;;;;;;0;inf;108;inf;;;;;;;;;;;;;;;;;;
-299;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;iv with Perpetrator (Rifampicin @ 5 mg);Alfentanil;Rifampicin;0;;Plasma;;;;;;;;;0;inf;109;inf;;;;;;;;;;;;;;;;;;
-300;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;iv with Perpetrator (Rifampicin @ 10 mg);Alfentanil;Rifampicin;0;;Plasma;;;;;;;;;0;inf;109;inf;;;;;;;;;;;;;;;;;;
-301;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;iv with Perpetrator (Rifampicin @ 25 mg);Alfentanil;Rifampicin;0;;Plasma;;;;;;;;;0;inf;109;inf;;;;;;;;;;;;;;;;;;
-302;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;iv with Perpetrator (Rifampicin @ 75 mg);Alfentanil;Rifampicin;0;;Plasma;;;;;;;;;0;inf;109;inf;;;;;;;;;;;;;;;;;;
-304;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;po with Perpetrator (Rifampicin @ 5 mg);Midazolam;Rifampicin;0;;Plasma;;;;;;;;;0;inf;132;inf;;;;;;;;;;;;;;;;;;
-305;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;po with Perpetrator (Rifampicin @ 10 mg);Midazolam;Rifampicin;0;;Plasma;;;;;;;;;0;inf;132;inf;;;;;;;;;;;;;;;;;;
-306;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;po with Perpetrator (Rifampicin @ 25 mg);Midazolam;Rifampicin;0;;Plasma;;;;;;;;;0;inf;132;inf;;;;;;;;;;;;;;;;;;
-307;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;po with Perpetrator (Rifampicin @ 75 mg);Midazolam;Rifampicin;0;;Plasma;;;;;;;;;0;inf;132;inf;;;;;;;;;;;;;;;;;;
-309;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;po with Perpetrator (Rifampicin @ 5 mg);Alfentanil;Rifampicin;0;;Plasma;;;;;;;;;0;inf;133;inf;;;;;;;;;;;;;;;;;;
-310;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;po with Perpetrator (Rifampicin @ 10 mg);Alfentanil;Rifampicin;0;;Plasma;;;;;;;;;0;inf;133;inf;;;;;;;;;;;;;;;;;;
-311;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;po with Perpetrator (Rifampicin @ 25 mg);Alfentanil;Rifampicin;0;;Plasma;;;;;;;;;0;inf;133;inf;;;;;;;;;;;;;;;;;;
-312;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;po with Perpetrator (Rifampicin @ 75 mg);Alfentanil;Rifampicin;0;;Plasma;;;;;;;;;0;inf;133;inf;;;;;;;;;;;;;;;;;;
-342;Link 2008;https://www.ncbi.nlm.nih.gov/pubmed/18537963;iv with Perpetrator (Rifampicin);Midazolam;Rifampicin;0;;Plasma;;;;;;;;;;;;;;Week 4 as Control;;;;;;;;;;;;;;;;
-344;Link 2008;https://www.ncbi.nlm.nih.gov/pubmed/18537963;po with Perpetrator (Rifampicin);Midazolam;Rifampicin;0;;Plasma;;;;;;;;;;;;;;Week 4 as Control;;;;;;;;;;;;;;;;
-392;Reitman 2011;https://www.ncbi.nlm.nih.gov/pubmed/21191377;Week 0 after Perpetrator (Rifampicin);Midazolam;Rifampicin;0;;Plasma;;;;;;;;;;;;;;Week 4 as Control;;;;;;;;;;;;;;;;
-393;Reitman 2011;https://www.ncbi.nlm.nih.gov/pubmed/21191377;Week 1 after Perpetrator (Rifampicin);Midazolam;Rifampicin;0;;Plasma;;;;;;;;;;;;;;Week 4 as Control;;;;;;;;;;;;;;;;
-394;Reitman 2011;https://www.ncbi.nlm.nih.gov/pubmed/21191377;Week 2 after Perpetrator (Rifampicin);Midazolam;Rifampicin;0;;Plasma;;;;;;;;;;;;;;Week 4 as Control;;;;;;;;;;;;;;;;
-397;Reitman 2011;https://www.ncbi.nlm.nih.gov/pubmed/21191377;Week 1 after Perpetrator (Rifampicin);Digoxin;Rifampicin;0;;Plasma;;;;;;;;;;;;;;Week 4 as Control;;;;;;;;;;;;;;;;
-398;Reitman 2011;https://www.ncbi.nlm.nih.gov/pubmed/21191377;Week 2 after Perpetrator (Rifampicin);Digoxin;Rifampicin;0;;Plasma;;;;;;;;;;;;;;Week 4 as Control;;;;;;;;;;;;;;;;
-399;Reitman 2011;https://www.ncbi.nlm.nih.gov/pubmed/21191377;Week 4 after Perpetrator (Rifampicin);Digoxin;Rifampicin;0;;Plasma;;;;;;;;;;;;;;Week 4 as Control;;;;;;;;;;;;;;;;
-389;Phimmasone 2001;https://www.ncbi.nlm.nih.gov/pubmed/11753266;with Perpetrator (Rifampicin);Midazolam;Rifampicin;0;;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-422;Szalat 2007;https://www.ncbi.nlm.nih.gov/pubmed/17553741;with Perpetrator (Rifampicin);Midazolam;Rifampicin;0;;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-191;Greiner 1999;https://www.ncbi.nlm.nih.gov/pubmed/10411543;po with Perpetrator (Rifampicin);Digoxin;Rifampicin;0;;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-193;Greiner 1999;https://www.ncbi.nlm.nih.gov/pubmed/10411543;iv with Perpetrator (Rifampicin);Digoxin;Rifampicin;0;;Plasma;;;;;;;;;;;;;;;10;9.14;mg;PO;0;h;BID;buspirone hydrochloride;tablet (BMS);;120;;;;;
-337;Larsen 2007;https://www.ncbi.nlm.nih.gov/pubmed/17365992;with Perpetrator (Rifampicin);Digoxin;Rifampicin;0;;Serum;;;;;;;;;;;;;;;10;9.14;mg;PO;0;h;BID;buspirone hydrochloride;tablet (BMS);;120;;;;;
-338;Larsen 2007;https://www.ncbi.nlm.nih.gov/pubmed/17365992;with Perpetrator (Ketoconazole);Digoxin;Ketoconazole;0;;Serum;;;;;;;;;;;;;;;10;9.14;mg;PO;0;h;BID;buspirone hydrochloride;tablet (BMS);;120;;;;;
-314;Kirby 2012;https://www.ncbi.nlm.nih.gov/pubmed/22190694;Study 1 - Staggered Administration with RIF;Digoxin;Rifampicin;0;;Plasma;;;;;;;;;;;;;;;10;9.14;mg;PO;0;h;BID;buspirone hydrochloride;tablet (BMS);;120;;;;;
-316;Kirby 2012;https://www.ncbi.nlm.nih.gov/pubmed/22190694;Study 2 - Simultaneous Administration with RIF;Digoxin;Rifampicin;0;;Plasma;;;;;;;;;;;;;;;10;9.14;mg;PO;0;h;BID;buspirone hydrochloride;tablet (BMS);;120;;;;;
-271;Jalava 1997;https://www.ncbi.nlm.nih.gov/pubmed/9421099;po with Perpetrator (Itraconazole);Digoxin;Itraconazole;0;;Serum;;;;;;;;;;;;;;;10;9.14;mg;PO;0;h;BID;buspirone hydrochloride;tablet (BMS);;120;;;;;
-173;Gorski 1998;https://www.ncbi.nlm.nih.gov/pubmed/9728893;po with Perpetrator (Clarithromycin);Midazolam;Clarithromycin;0;;Whole Blood;;;;;;;;;;;;;;;10;9.14;mg;PO;0-(S-36,T-12,R-6);h;BID;buspirone hydrochloride;tablet (BMS);;120;;;;;
-175;Gorski 1998;https://www.ncbi.nlm.nih.gov/pubmed/9728893;iv with Perpetrator (Clarithromycin);Midazolam;Clarithromycin;0;;Whole Blood;;;;;;;;;;;;;;;10;9.14;mg;PO;0-(S-36,T-12,R-6);h;BID;buspirone hydrochloride;tablet (BMS);;120;;;;;
-276;Kharasch 1997;https://www.ncbi.nlm.nih.gov/pubmed/9232132;po with Perpetrator (Rifampicin);Midazolam;Rifampicin;0;;Plasma;;;;;;;;;;;;;;;10;9.14;mg;PO;0-(S-36,T-12,R-6);h;BID;buspirone hydrochloride;tablet (BMS);;120;;;;;
-278;Kharasch 1997;https://www.ncbi.nlm.nih.gov/pubmed/9232132;po with Perpetrator (Rifampicin);Alfentanil;Rifampicin;0;;Plasma;;;;;;;;;;;;;;;10;9.14;mg;PO;0-(S-36,T-12,R-6);h;BID;buspirone hydrochloride;tablet (BMS);;120;;;;;
-377;Olkkola 1996;https://www.ncbi.nlm.nih.gov/pubmed/8623953;day 1 (po) with Perpetrator (Itraconazole);Midazolam;Itraconazole;0;;Plasma;;;;;;;;;;;;;;;10;9.14;mg;PO;0-(S-36,T-12,R-6);h;BID;buspirone hydrochloride;tablet (BMS);;120;;;;;
-378;Olkkola 1996;https://www.ncbi.nlm.nih.gov/pubmed/8623953;day 4 (iv) with Perpetrator (Itraconazole);Midazolam;Itraconazole;0;;Plasma;;;;;;;;;;;;;;;10;9.14;mg;PO;0-(S-36,T-12,R-6);h;BID;buspirone hydrochloride;tablet (BMS);;120;;;;;
-379;Olkkola 1996;https://www.ncbi.nlm.nih.gov/pubmed/8623953;day 6 (po) with Perpetrator (Itraconazole);Midazolam;Itraconazole;0;;Plasma;;;;;;;;;;;;;;;10;9.14;mg;PO;0-(S-36,T-12,R-6);h;BID;buspirone hydrochloride;tablet (BMS);;120;;;;;
-380;Olkkola 1996;https://www.ncbi.nlm.nih.gov/pubmed/8623953;day 1 (po) with Perpetrator (Fluconazole);Midazolam;Fluconazole;0;;Plasma;;;;;;;;;;;;;;;10;9.14;mg;PO;0-(S-36,T-12,R-16);h;BID;buspirone hydrochloride;tablet (BMS);;120;;;;;
-381;Olkkola 1996;https://www.ncbi.nlm.nih.gov/pubmed/8623953;day 4 (iv) with Perpetrator (Fluconazole);Midazolam;Fluconazole;0;;Plasma;;;;;;;;;;;;;;;10;9.14;mg;PO;0-(S-36,T-12,R-16);h;BID;buspirone hydrochloride;tablet (BMS);;120;;;;;
-382;Olkkola 1996;https://www.ncbi.nlm.nih.gov/pubmed/8623953;day 6 (po) with Perpetrator (Fluconazole);Midazolam;Fluconazole;0;;Plasma;;;;;;;;;;;;;;;10;9.14;mg;PO;0-(S-36,T-12,R-16);h;BID;buspirone hydrochloride;tablet (BMS);;120;;;;;
-370;Olkkola 1994;https://www.ncbi.nlm.nih.gov/pubmed/8181191;po with Perpetrator (Itraconazole);Midazolam;Itraconazole;0;;Plasma;;;;;;;;;;;;;;;10;9.14;mg;PO;0-(S-36,T-12,R-16);h;BID;buspirone hydrochloride;tablet (BMS);;120;;;;;
-371;Olkkola 1994;https://www.ncbi.nlm.nih.gov/pubmed/8181191;po with Perpetrator (Ketoconazole;Midazolam;Ketoconazole;0;;Plasma;;;;;;;;;;;;;;;10;9.14;mg;PO;0-(S-36,T-12,R-16);h;BID;buspirone hydrochloride;tablet (BMS);;120;;;;;
-366;Olkkola 1993;https://www.ncbi.nlm.nih.gov/pubmed/8453848;po with Perpetrator (Erythromycin);Midazolam;Erythromycin;0;;Plasma;;;;;;;;;;;;;;;200;;mg;PO;0;h;SD;;Capsule;;200;2x 100-mg itraconazole capsules with coated sugar spheres;;;;
-368;Olkkola 1993;https://www.ncbi.nlm.nih.gov/pubmed/8453848;iv with Perpetrator (Erythromycin);Midazolam;Erythromycin;0;;Plasma;;;;;;;;;;;;;;;200;;mg;PO;0;h;SD;;Capsule;;200;2x 100-mg itraconazole capsules with coated sugar spheres;;;;
-401;Saari 2006;https://www.ncbi.nlm.nih.gov/pubmed/16580904;po with Perpetrator (Voriconazole);Midazolam;Voriconazole;0;;Plasma;;;;;;;;;;;;;;;200;;mg;PO;0;h;SD;;Capsule;;200;2x 100-mg itraconazole capsules with coated sugar spheres;;;;
-404;Saari 2006;https://www.ncbi.nlm.nih.gov/pubmed/16580904;iv with Perpetrator (Voriconazole);Midazolam;Voriconazole;0;;Plasma;;;;;;;;;;;;;;;200;;mg;PO;0;h;SD;;Capsule;;200;2x 100-mg itraconazole capsules with coated sugar spheres;;;;
-420;Swart 2002;https://www.ncbi.nlm.nih.gov/pubmed/11851636 ;day 10 Control with Perpetrator (Erythromycin);Midazolam;Erythromycin;0;;Plasma;;;;;;;;;;;;;;;200;;mg;PO;0-(S-72,T-12,R-29)-432;h;BID;;Capsule;;200;2x 100-mg itraconazole capsules with coated sugar spheres;;;;
-354;Markert 2013;https://www.ncbi.nlm.nih.gov/pubmed/23748747;with Perpetrator (Clarithromycin);Midazolam;Clarithromycin;0;;Plasma;;;;;;;;;;;;;;;200;;mg;PO;0-(S-72,T-12,R-29)-432;h;BID;;Capsule;;200;2x 100-mg itraconazole capsules with coated sugar spheres;;;;
-362;Okudaira 2007;https://www.ncbi.nlm.nih.gov/pubmed/17585116;EM 2 with Perpetrator (Erythromycin);Midazolam;Erythromycin;0;;Plasma;;;;;;;;;;;;;;;200;;mg;PO;0;h;SD;;Sporanox Oral Solution;;200;hydroxypropyl-beta-cyclodextrin solution (HP-beta-CD) of 20 ml;;;;
-363;Okudaira 2007;https://www.ncbi.nlm.nih.gov/pubmed/17585116;EM 4 with Perpetrator (Erythromycin);Midazolam;Erythromycin;0;;Plasma;;;;;;;;;;;;;;;200;;mg;PO;0;h;SD;;Sporanox Oral Solution;;200;hydroxypropyl-beta-cyclodextrin solution (HP-beta-CD) of 20 ml;;;;
-364;Okudaira 2007;https://www.ncbi.nlm.nih.gov/pubmed/17585116;EM 7 with Perpetrator (Erythromycin);Midazolam;Erythromycin;0;;Plasma;;;;;;;;;;;;;;;200;;mg;PO;(S-0,T-24,R-15);h;OD;;Sporanox Oral Solution;;200;hydroxypropyl-beta-cyclodextrin solution (HP-beta-CD) of 20 ml;;;;
-424;Templeton 2010;https://www.ncbi.nlm.nih.gov/pubmed/20739919;with Perpetrator (Itraconazole @ 50 mg);Midazolam;Itraconazole;0;;Plasma;;;;;;;;;;;;;;;200;;mg;PO;(S-0,T-24,R-15);h;OD;;Sporanox Oral Solution;;200;hydroxypropyl-beta-cyclodextrin solution (HP-beta-CD) of 20 ml;;;;
-425;Templeton 2010;https://www.ncbi.nlm.nih.gov/pubmed/20739919;with Perpetrator (Itraconazole @ 200 mg);Midazolam;Itraconazole;0;;Plasma;;;;;;;;;;;;;;;200;;mg;PO;0;h;SD;;Sporanox Oral Solution;;200;hydroxypropyl-beta-cyclodextrin solution (HP-beta-CD) of 20 ml;;;;
-426;Templeton 2010;https://www.ncbi.nlm.nih.gov/pubmed/20739919;with Perpetrator (Itraconazole @ 400 mg);Midazolam;Itraconazole;0;;Plasma;;;;;;;;;;;;;;;200;;mg;PO;0;h;SD;;Sporanox Oral Solution;;200;hydroxypropyl-beta-cyclodextrin solution (HP-beta-CD) of 20 ml;;;;
-428;Tham 2006;https://www.ncbi.nlm.nih.gov/pubmed/16628140;with Perpetrator (Ketoconazole 50 mg);Midazolam;Ketoconazole;0;;Plasma;;;;;;;;;;;;;;;200;;mg;PO;(S-0,T-24,R-15);h;OD;;Sporanox Oral Solution;;200;hydroxypropyl-beta-cyclodextrin solution (HP-beta-CD) of 20 ml;;;;
-50;Ahonen 1995;http://www.ncbi.nlm.nih.gov/pubmed/6138081;with Perpetrator (Itraconazole);Midazolam;Itraconazole;0;;Plasma;;;;;;;;;;;;;;;200;;mg;PO;(S-0,T-24,R-15);h;OD;;Sporanox Oral Solution;;200;hydroxypropyl-beta-cyclodextrin solution (HP-beta-CD) of 20 ml;;;;
-469;Yeates 1996;http://www.ncbi.nlm.nih.gov/pubmed/8880291;with Perpetrator (Clarithromycin);Midazolam;Clarithromycin;0;;Plasma;;;;;;;;;;;;;;;200;;mg;PO;0;h;SD;;Sporanox oral solution;;200;containing hydroxypropyl-beta-cyclodextrin;;;;
-471;Zimmermann 1996;https://www.ncbi.nlm.nih.gov/pubmed/8720318;with Perpetrator (Erythromycin);Midazolam;Erythromycin;0;;Plasma;;;;;;;;;;;;;;;200;;mg;PO;0;h;SD;;Sporanox oral solution;;200;containing hydroxypropyl-beta-cyclodextrin;;;;
-;;;;;;;;;;;;;;;;;;;;;;;200;;mg;PO;0;h;SD;;F05 capsule;;200;2x 100-mx capsules;;;;
-;;;;;;;;;;;;;;;;;;;;;;;200;;mg;PO;0;h;SD;;F05 capsule;;200;2x 100-mx capsules;;;;
-;;;;;;;;;;;;;;;;;;;;;;;200;;mg;PO;0;h;SD;;F12 capsule;;200;2x 100-mx capsules;;;;
-;;;;;;;;;;;;;;;;;;;;;;;200;;mg;PO;0;h;SD;;F12 capsule;;200;2x 100-mx capsules;;;;
-;;;;;;;;;;;;;;;;;;;;;;;21;;mg/kg;IV;0-24-48-72-96;h;Infusion, OD for minimum of 5 days, with pk samples on day 2 and 5, where only final dose on day 5 was used;;amikacin in 0.9% sodium chloride;30;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;450;;mg;PO;0;h;SD;;Rifa 450 Dragees;;100;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;600;;mg;PO;0;h;SD;;Rifa 600 Dragees;;100;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;0.5;;g;IV;0;h;Infusion;;amikacin in 5% glucose solution;60;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;1;;g;IV;0;h;Infusion;;amikacin in 5% glucose solution;60;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+ID;Study ID;Reference;Grouping;Substrate;Perpetrator;Route Substrate;Route Perpetrator;Compartment;AUCR Avg;AUCR AvgType;AUCR Var;AUCR VarType;CmaxR Avg;CmaxR AvgType;CmaxR Var;CmaxR VarType;t_placebo_0;t_placebo_end;t_treatment_0;t_treatment_end;t Unit;Comment;Dose;Dose free API;Dose Unit;Route;Times of Administration;Times Unit;Comment Regimen;Administered form;Formulation type;Infusion duration [min];Water volume ingested for drug intake [mL];Comment on administration/formulation;Fasted/Fed state;Duration of fasting before drug administration [h];Duration of fasting after drug administration [h];Comment on food intake;Notghi
+320;Kivistö 1997;https://www.ncbi.nlm.nih.gov/pubmed/9333111;with Perpetrator (Itraconazole);Buspirone;Itraconazole;PO;PO;Plasma;19.20;;;;13.40;;;;0;inf;79;inf;h;;100;;mg;PO;0-6-24-30-48-54-72-78;h;MD;;Sporanox;;150;;Fasted;2;3;wrt. administration of buspirone;0
+318;Kivistö 1997;https://www.ncbi.nlm.nih.gov/pubmed/9333111;with Perpetrator (Erythromycin);Buspirone;Erythromycin;PO;PO;Plasma;5.9;;;;5;;;;0;inf;79;inf;h;;500;;mg;PO;0-6-14-24-30-38-48-54-62-72-78;h;MD;erythromycin base;Ery-Max 250 mg enterocapsule;;150;;Fasted;2;3;wrt. administration of buspirone;0
+327;Lamberg 1998a;https://www.ncbi.nlm.nih.gov/pubmed/9923581;with Perpetrator (Fluvoxamine);Buspirone;Fluvoxamine;PO;PO;Plasma;2.35;;0.75-4.69;Range;2.01;;0.69-3.96;Range;0;inf;114;inf;h;;100;;mg;PO;0-24-48-72-96;h;SD;;Fevarin;;150;;Fasted;2;3;wrt. administration of buspirone;0
+329;Lamberg 1998b;https://www.ncbi.nlm.nih.gov/pubmed/9578186;with Perpetrator (Rifampicin);Buspirone;Rifampicin;PO;PO;Plasma;0.104;;0.063-0.145;95% CI;0.163;;0.101-0.226;95% CI;0;inf;113;inf;h;;30;;mg;PO;0-24-48-72-96;h;SD;;Rimapen Orion;;150;;Fasted;2;3;wrt. administration of buspirone;0
+331;Lamberg 1998c;https://www.ncbi.nlm.nih.gov/pubmed/9663178;with Perpetrator (Verapamil);Buspirone;Verapamil;PO;PO;Plasma;3.4;;;;3.4;;;;0;inf;30;inf;h;;80;;mg;PO;0-5-12-24-29;h;SD;;Verapamil tablet Orion;;150;;Fasted;2;3;wrt. administration of buspirone;0
+333;Lamberg 1998c;https://www.ncbi.nlm.nih.gov/pubmed/9663178;with Perpetrator (Diltiazem);Buspirone;Diltiazem;PO;PO;Plasma;5.5;;;;4.1;;;;0;inf;30;inf;h;;60;;mg;PO;0-5-12-24-29;h;SD;;Diltiazem tablet Orion;;150;;Fasted;2;3;wrt. administration of buspirone;0
+113;Chung 2006;https://www.ncbi.nlm.nih.gov/pubmed/16580903;with Perpetrator (Rifampicin);Midazolam;Rifampicin;PO;PO;Plasma;0.124489796;Approx. Avg;;;0.169565217;Approx. CmaxR;;;0;inf;166;inf;h;;600;;mg;PO;(S-0,T-24,R-9);h;;300-mg capsules (UDL);;;;2x 300 mg capsules;;;;;0
+114;Chung 2006;https://www.ncbi.nlm.nih.gov/pubmed/16580903;with Perpetrator (Ketoconazole);Midazolam;Ketoconazole;PO;PO;Plasma;9.510204082;Approx. Avg;;;2.391304348;Approx. CmaxR;;;0;inf;118;inf;h;;400;;mg;PO;(S-0,T-24,R-10);h;;200-mg tablets (Taro);;;;2x 200 mg tablets;;;;;0
+116;Chung 2006;https://www.ncbi.nlm.nih.gov/pubmed/16580903;with Perpetrator (Rifampicin);Simvastatin;Rifampicin;PO;PO;Plasma;0.089655172;Approx. Avg;;;0.148648649;Approx. CmaxR;;;0;inf;190;inf;h;;600;;mg;PO;(S-0,T-24,R-9);h;;300-mg capsules (UDL);;;;2x 300 mg capsules;;;;;0
+117;Chung 2006;https://www.ncbi.nlm.nih.gov/pubmed/16580903;with Perpetrator (Ketoconazole);Simvastatin;Ketoconazole;PO;PO;Plasma;12.55172414;Approx. Avg;;;7.432432432;Approx. CmaxR;;;0;inf;190;inf;h;;400;;mg;PO;(S-0,T-24,R-10);h;;200-mg tablets (Taro);;;;2x 200 mg tablets;;;;;0
+280;Kharasch 2004;https://www.ncbi.nlm.nih.gov/pubmed/15536460;iv with Perpetrator (Rifampicin);Midazolam;Rifampicin;IV;PO;Plasma;0.521126761;Approx. Avg;;;1.009960159;Approx. CmaxR;;;0;inf;104;128;h;;600;;mg;PO;(S-0,T-24,R-6);h;MD OD;;;;;;;;;;0
+283;Kharasch 2004;https://www.ncbi.nlm.nih.gov/pubmed/15536460;iv with Perpetrator (Rifampicin);Alfentanil;Rifampicin;IV;PO;Plasma;0.375;Approx. Avg;;;1.003325942;Approx. CmaxR;;;0;inf;105;129;h;;600;;mg;PO;(S-0,T-24,R-6);h;MD OD;;;;;;;;;;0
+286;Kharasch 2004;https://www.ncbi.nlm.nih.gov/pubmed/15536460;po #1 with Perpetrator (Rifampicin);Midazolam;Rifampicin;PO;PO;Plasma;0.052631579;Approx. Avg;;;0.10989011;Approx. CmaxR;;;0;inf;128;inf;h;;600;;mg;PO;(S-0,T-24,R-6);h;MD OD;;;;;;;;;;0
+288;Kharasch 2004;https://www.ncbi.nlm.nih.gov/pubmed/15536460;po #1 (60 µg/kg) with Perpetrator (Rifampicin);Alfentanil;Rifampicin;PO;PO;Plasma;0.045631068;Approx. Avg;;;0.111111111;Approx. CmaxR;;;0;inf;129;inf;h;;600;;mg;PO;(S-0,T-24,R-6);h;MD OD;;;;;;;;;;0
+392;Reitman 2011;https://www.ncbi.nlm.nih.gov/pubmed/21191377;Week 0 after Perpetrator (Rifampicin);Midazolam;Rifampicin;PO;PO;Plasma;0.123;arith. mean;;;0.162;arith. mean;;;1320;inf;648;816;h;Week 4 as Control;600;;mg;PO;(S-0,T-24,R-28);h;;;Rifadin (2x 300mg);;;Rifadin 2x 300 mg (Merrel);Fasted;;;;0
+393;Reitman 2011;https://www.ncbi.nlm.nih.gov/pubmed/21191377;Week 1 after Perpetrator (Rifampicin);Midazolam;Rifampicin;PO;PO;Plasma;0.383;arith. mean;;;0.403;arith. mean;;;1320;inf;816;984;h;Week 4 as Control;600;;mg;PO;(S-0,T-24,R-28);h;;;Rifadin (2x 300mg);;;Rifadin 2x 300 mg (Merrel);Fasted;;;;0
+394;Reitman 2011;https://www.ncbi.nlm.nih.gov/pubmed/21191377;Week 2 after Perpetrator (Rifampicin);Midazolam;Rifampicin;PO;PO;Plasma;0.815;arith. mean;;;0.731;arith. mean;;;1320;inf;984;1320;h;Week 4 as Control;600;;mg;PO;(S-0,T-24,R-28);h;;;Rifadin (2x 300mg);;;Rifadin 2x 300 mg (Merrel);Fasted;;;;0
+396;Reitman 2011;https://www.ncbi.nlm.nih.gov/pubmed/21191377;Week 0 after Perpetrator (Rifampicin);Digoxin;Rifampicin;PO;PO;Plasma;1.462;arith. mean;;;1.49;arith. mean;;;1321;inf;649;817;h;Week 4 as Control;600;;mg;PO;(S-0,T-24,R-28);h;;;Rifadin (2x 300mg);;;Rifadin 2x 300 mg (Merrel);Fasted;;;;0
+397;Reitman 2011;https://www.ncbi.nlm.nih.gov/pubmed/21191377;Week 1 after Perpetrator (Rifampicin);Digoxin;Rifampicin;PO;PO;Plasma;0.683;arith. mean;;;69.3;arith. mean;;;1321;inf;817;985;h;Week 4 as Control;600;;mg;PO;(S-0,T-24,R-28);h;;;Rifadin (2x 300mg);;;Rifadin 2x 300 mg (Merrel);Fasted;;;;0
+398;Reitman 2011;https://www.ncbi.nlm.nih.gov/pubmed/21191377;Week 2 after Perpetrator (Rifampicin);Digoxin;Rifampicin;PO;PO;Plasma;0.977;arith. mean;;;87.6;arith. mean;;;1321;inf;985;1321;h;Week 4 as Control;600;;mg;PO;(S-0,T-24,R-28);h;;;Rifadin (2x 300mg);;;Rifadin 2x 300 mg (Merrel);Fasted;;;;0
+354;Markert 2013;https://www.ncbi.nlm.nih.gov/pubmed/23748747;with Perpetrator (Clarithromycin);Midazolam;Clarithromycin;0;0;Plasma;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;0
+469;Yeates 1996;http://www.ncbi.nlm.nih.gov/pubmed/8880291;with Perpetrator (Clarithromycin);Midazolam;Clarithromycin;PO;PO;Plasma;3.571572095;Approx. Avg;;;2.439979191;Approx. CmaxR;;;0;inf;97.5;inf;h;;250;;mg;PO;(S-0,T-12-R-10);h;MD BID;;Klacid tabelts;;;Kacid tablets from Abbot;Fasted;;2;;0
+471;Zimmermann 1996;https://www.ncbi.nlm.nih.gov/pubmed/8720318;with Perpetrator (Erythromycin);Midazolam;Erythromycin;PO;PO;Plasma;3.813719284;Approx. Avg;;;2.711438346;Approx. CmaxR;;;0;inf;97.5;inf;h;;500;;mg;PO;(S-0,T-8-R-15);h;MD TID;;Zithromax;;100;Zitrhromax Pfizer;Fasted;10;3.5;;0
+54;Backman 1996;https://www.ncbi.nlm.nih.gov/pubmed/8549036;with Perpetrator (Rifampicin);Midazolam;Rifampicin;PO;PO;Plasma;0.041;Arith.mean;;;0.061818182;Approx. CmaxR;;;0;inf;113;inf;h;;600;;mg;PO;0-24-48-72-96;h;;;300 mg capsules, Rimapen Orion;;;;;;;;1
+56;Backman 1998;https://www.ncbi.nlm.nih.gov/pubmed/9591931;Phase IV (during Perpetrator (Rifampicin));Midazolam;Rifampicin;PO;PO;Plasma;0.023;arith. mean;0.006;Arith. SEM;0.054;Arith. Mean;0.012;Arith. SEM;0;inf;113;185;h;;600;;mg;PO;0-24-48-72-96;h;;;300 mg capsules, Rimapen Orion;;;;Fasted;;;;1
+57;Backman 1998;https://www.ncbi.nlm.nih.gov/pubmed/9591931;Phase V (4 days after Perpetrator (Rifampicin));Midazolam;Rifampicin;PO;PO;Plasma;0.132;arith. mean;0.028;Arith. SEM;0.202;Arith. Mean;0.042;Arith. SEM;0;inf;185;inf;h;;600;;mg;PO;0-24-48-72-96;h;;;300 mg capsules, Rimapen Orion;;;;Fasted;;;;1
+58;Backman 1998;https://www.ncbi.nlm.nih.gov/pubmed/9591931;Phase II (during Perpetrator (Itraconazole));Midazolam;Itraconazole;PO;PO;Plasma;7.97;arith. mean;1.14;Arith. SEM;3.12;Arith. Mean;0.37;Arith. SEM;0;inf;74;170;h;;200;;mg;PO;0-24-48-72;h;;;Sporanox 100-mg capsule;;;;Fasted;;;;1
+59;Backman 1998;https://www.ncbi.nlm.nih.gov/pubmed/9591931;Phase III (4 days after Perpetrator (Itraconazole));Midazolam;Itraconazole;PO;PO;Plasma;2.63;arith. mean;0.4;Arith. SEM;1.92;Arith. Mean;0.31;Arith. SEM;0;inf;170;inf;h;;200;;mg;PO;0-24-48-72;h;;;Sporanox 100-mg capsule;;;;Fasted;;;;1
+129;Eap 2004;https://www.ncbi.nlm.nih.gov/pubmed/15114429;75 micg with Perpetrator (Rifampicin);Midazolam;Rifampicin;PO;PO;Plasma;0.441176471;Approx. Avg;;;0.225806452;Approx. Avg;;;0;inf;90;inf;h;;450;;mg;PO;(S-0,T-24,R-5);h;QD;;;;;;;;;;1
+130;Eap 2004;https://www.ncbi.nlm.nih.gov/pubmed/15114429;75 micg with Perpetrator (Ketoconazole);Midazolam;Ketoconazole;PO;PO;Plasma;6.470588235;Approx. Avg;;;3.741935484;Approx. Avg;;;0;inf;48;inf;h;;200;;mg;PO;0-12-24-36;h;BID;;;;;;;;;;1
+132;Eap 2004;https://www.ncbi.nlm.nih.gov/pubmed/15114429;7.5 mg with Perpetrator (Rifampicin);Midazolam;Rifampicin;PO;PO;Plasma;0.052238806;Approx. Avg;;;0.111538462;Approx. Avg;;;0;inf;114;inf;h;;450;;mg;PO;(S-0,T-24,R-5);h;QD;;;;;;;;;;1
+177;Gorski 2003;https://www.ncbi.nlm.nih.gov/pubmed/12966371;po with Perpetrator (Rifampicin);Midazolam;Rifampicin;PO;PO;Whole Blood;0.045348837;Approx. Avg;;;0.067039106;arith. Mean;;;0;inf;132;inf;h;from CL (L/hr/kg), Cmax dose-corrrected;600;;mg;PO;0-(S24-T24-R6);h;MD;;pill, INN, rifampicin;;;;;;;;1
+179;Gorski 2003;https://www.ncbi.nlm.nih.gov/pubmed/12966371;iv with Perpetrator (Rifampicin);Midazolam;Rifampicin;IV;PO;Whole Blood;0.458333333;Approx. Avg;;;;;;;0;inf;132;inf;h;from CL (L/hr/kg);600;;mg;PO;0-(S24-T24-R6);h;MD;;pill, INN, rifampicin;;;;;;;;1
+215;Gurley 2006;https://www.ncbi.nlm.nih.gov/pubmed/16432272;with Perpetrator (Rifampicin);Midazolam;Rifampicin;PO;PO;Plasma;0.057160804;Approx. Avg;;;0.120915033;arith. Mean;;;0;inf;144;inf;h;;300;;mg;PO;(S-0,T-12,R-14);h;MD;Rifampin;300mg, Rifadin®, Aventis Pharmaceuticals;;;twice daily;;;;;1
+217;Gurley 2006;https://www.ncbi.nlm.nih.gov/pubmed/16432272;with Perpetrator (Clarithomycin);Midazolam;Clarithromycin;PO;PO;Plasma;8.39285714;Approx. Avg;;;3.795597484;arith. Mean;;;0;inf;144;inf;h;;500;;mg;PO;(S-0,T-12,R-14);h;MD;clarithromycin;500 mg, Biaxin®, Abbott Laboratories;;;twice daily;;;;;1
+221;Gurley 2008a;https://www.ncbi.nlm.nih.gov/pubmed/17495878;with Perpetrator (Rifampicin);Midazolam;Rifampicin;PO;PO;Plasma;0.06031746;Approx. Avg;;;0.107623318;arith. Mean;;;0;inf;146;inf;h;;300;;mg;PO;(S-0,T-12,R-14);h;MD;Rifampin;300mg, Rifadin®, Aventis Pharmaceuticals;;;twice daily;;;;;1
+223;Gurley 2008a;https://www.ncbi.nlm.nih.gov/pubmed/17495878;with Perpetrator (Clarithomycin);Midazolam;Clarithromycin;PO;PO;Plasma;5.4833984;Approx. Avg;;;2.174329502;arith. Mean;;;0;inf;146;inf;h;;500;;mg;PO;(S-0,T-12,R-14);h;MD;clarithromycin;500 mg, Biaxin®, Abbott Laboratories;;;twice daily;;;;;1
+227;Gurley 2008b;https://www.ncbi.nlm.nih.gov/pubmed/18214850;with Perpetrator (Rifampicin);Digoxin;Rifampicin;PO;PO;Serum;0.69565217;Approx. Avg;;;0.615384615;arith. Mean;;;0;inf;144;inf;h;;300;;mg;PO;(S-0,T-12,R-14);h;MD;Rifampin;Rifadin®, Aventis Pharmaceuticals;;;twice daily;;;;;1
+229;Gurley 2008b;https://www.ncbi.nlm.nih.gov/pubmed/18214850;with Perpetrator (Clarithomycin);Digoxin;Clarithromycin;PO;PO;Serum;1.46575342;Approx. Avg;;;1.75;arith. Mean;;;0;inf;144;inf;h;;500;;mg;PO;(S-0,T-12,R-14);h;MD;clarithromycin;Biaxin®, Abbott Laboratories;;;twice daily;;;;;1
+294;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;iv with Perpetrator (Rifampicin @ 5 mg);Midazolam;Rifampicin;IV;PO;Plasma;0.84;geo. Mean;0.13;+/- 90%CI;1.03225806;arith. Mean;;;0;inf;108;inf;h;;5;;mg;PO;0-24-48-72-96-120;h;MD;rifampin;capsules;;;at bedtime;;;;;1
+295;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;iv with Perpetrator (Rifampicin @ 10 mg);Midazolam;Rifampicin;IV;PO;Plasma;0.77;geo. Mean;0.12;+/- 90%CI;1.064516129;arith. Mean;;;0;inf;108;inf;h;;10;;mg;PO;0-24-48-72-96-120;h;MD;rifampin;capsules;;;at bedtime;;;;;1
+296;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;iv with Perpetrator (Rifampicin @ 25 mg);Midazolam;Rifampicin;IV;PO;Plasma;0.63;geo. Mean;0.11;+/- 90%CI;0.838709677;arith. Mean;;;0;inf;108;inf;h;;25;;mg;PO;0-24-48-72-96-120;h;MD;rifampin;capsules;;;at bedtime;;;;;1
+297;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;iv with Perpetrator (Rifampicin @ 75 mg);Midazolam;Rifampicin;IV;PO;Plasma;0.6;geo. Mean;0.12;+/- 90%CI;1.322580645;arith. Mean;;;0;inf;108;inf;h;;75;;mg;PO;0-24-48-72-96-120;h;MD;rifampin;capsules;;;at bedtime;;;;;1
+299;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;iv with Perpetrator (Rifampicin @ 5 mg);Alfentanil;Rifampicin;IV;PO;Plasma;0.83;geo. Mean;0.16;+/- 90%CI;1.039215686;arith. Mean;;;0;inf;109;inf;h;;5;;mg;PO;0-24-48-72-96-120;h;MD;rifampin;capsules;;;at bedtime;;;;;1
+300;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;iv with Perpetrator (Rifampicin @ 10 mg);Alfentanil;Rifampicin;IV;PO;Plasma;0.75;geo. Mean;0.15;+/- 90%CI;1.049019608;arith. Mean;;;0;inf;109;inf;h;;10;;mg;PO;0-24-48-72-96-120;h;MD;rifampin;capsules;;;at bedtime;;;;;1
+301;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;iv with Perpetrator (Rifampicin @ 25 mg);Alfentanil;Rifampicin;IV;PO;Plasma;0.59;geo. Mean;0.12;+/- 90%CI;1;arith. Mean;;;0;inf;109;inf;h;;25;;mg;PO;0-24-48-72-96-120;h;MD;rifampin;capsules;;;at bedtime;;;;;1
+302;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;iv with Perpetrator (Rifampicin @ 75 mg);Alfentanil;Rifampicin;IV;PO;Plasma;0.51;geo. Mean;0.12;+/- 90%CI;1.029411765;arith. Mean;;;0;inf;109;inf;h;;75;;mg;PO;0-24-48-72-96-120;h;MD;rifampin;capsules;;;at bedtime;;;;;1
+304;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;po with Perpetrator (Rifampicin @ 5 mg);Midazolam;Rifampicin;PO;PO;Plasma;0.8;geo. Mean;0.19;+/- 90%CI;0.8;arith. Mean;;;0;inf;132;inf;h;;5;;mg;PO;0-24-48-72-96-120;h;MD;rifampin;capsules;;;at bedtime;;;;;1
+305;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;po with Perpetrator (Rifampicin @ 10 mg);Midazolam;Rifampicin;PO;PO;Plasma;0.68;geo. Mean;0.17;+/- 90%CI;0.93333333;arith. Mean;;;0;inf;132;inf;h;;10;;mg;PO;0-24-48-72-96-120;h;MD;rifampin;capsules;;;at bedtime;;;;;1
+306;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;po with Perpetrator (Rifampicin @ 25 mg);Midazolam;Rifampicin;PO;PO;Plasma;0.4;geo. Mean;0.1;+/- 90%CI;0.506666667;arith. Mean;;;0;inf;132;inf;h;;25;;mg;PO;0-24-48-72-96-120;h;MD;rifampin;capsules;;;at bedtime;;;;;1
+307;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;po with Perpetrator (Rifampicin @ 75 mg);Midazolam;Rifampicin;PO;PO;Plasma;0.25;geo. Mean;0.09;+/- 90%CI;0.34;arith. Mean;;;0;inf;132;inf;h;;75;;mg;PO;0-24-48-72-96-120;h;MD;rifampin;capsules;;;at bedtime;;;;;1
+309;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;po with Perpetrator (Rifampicin @ 5 mg);Alfentanil;Rifampicin;PO;PO;Plasma;0.74;geo. Mean;0.16;+/- 90%CI;0.862745098;arith. Mean;;;0;inf;133;inf;h;;5;;mg;PO;0-24-48-72-96-120;h;MD;rifampin;capsules;;;at bedtime;;;;;1
+310;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;po with Perpetrator (Rifampicin @ 10 mg);Alfentanil;Rifampicin;PO;PO;Plasma;0.61;geo. Mean;0.23;+/- 90%CI;0.862745098;arith. Mean;;;0;inf;133;inf;h;;10;;mg;PO;0-24-48-72-96-120;h;MD;rifampin;capsules;;;at bedtime;;;;;1
+311;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;po with Perpetrator (Rifampicin @ 25 mg);Alfentanil;Rifampicin;PO;PO;Plasma;0.3;geo. Mean;0.1;+/- 90%CI;0.490196078;arith. Mean;;;0;inf;133;inf;h;;25;;mg;PO;0-24-48-72-96-120;h;MD;rifampin;capsules;;;at bedtime;;;;;1
+312;Kharasch 2011;https://www.ncbi.nlm.nih.gov/pubmed/21562488;po with Perpetrator (Rifampicin @ 75 mg);Alfentanil;Rifampicin;PO;PO;Plasma;0.13;geo. Mean;0.06;+/- 90%CI;0.254901961;arith. Mean;;;0;inf;133;inf;h;;75;;mg;PO;0-24-48-72-96-120;h;MD;rifampin;capsules;;;at bedtime;;;;;1
+342;Link 2008;https://www.ncbi.nlm.nih.gov/pubmed/18537963;iv with Perpetrator (Rifampicin);Midazolam;Rifampicin;IV;PO;Plasma;0.655007949;Approx. Median;;;1.105960265;Approx. Median;;;0;inf;144;inf;h;;600;;mg;PO;0-24-48-72-96-120;h;MD;rifampicin;Rimactan®, 600 mg coated tablet, Medika AG,;;;in the morning;;;;;1
+344;Link 2008;https://www.ncbi.nlm.nih.gov/pubmed/18537963;po with Perpetrator (Rifampicin);Midazolam;Rifampicin;PO;PO;Plasma;0.015549077;Approx. Median;;;0.034865293;Approx. Median;;;0;inf;144;inf;h;;600;;mg;PO;0-24-48-72-96-120;h;MD;rifampicin;Rimactan®, 600 mg coated tablet, Medika AG,;;;in the morning;;;;;1
+391;Phimmasone 2001;https://www.ncbi.nlm.nih.gov/pubmed/11753266;with Perpetrator (Rifampicin);Alfentanil;Rifampicin;IV;PO;Plasma;0.55;arith. mean;;;;;;;0;inf;107;inf;h;;600;;mg;PO;0-24-48-72-96;h;MD;rifampin;;;;in the evening;;;;;1
+389;Phimmasone 2001;https://www.ncbi.nlm.nih.gov/pubmed/11753266;with Perpetrator (Rifampicin);Midazolam;Rifampicin;IV;PO;Plasma;0.51;arith. mean;;;;;;;0;inf;106;inf;h;;600;;mg;PO;0-24-48-72-96;h;MD;rifampin;;;;in the evening;;;;;1
+422;Szalat 2007;https://www.ncbi.nlm.nih.gov/pubmed/17553741;with Perpetrator (Rifampicin);Midazolam;Rifampicin;IV;PO;Plasma;0.579467114;Approx. Avg;;;;;;;0;inf;132;inf;h;;600;;mg;PO;0-24-48-72-96-120-144;h;MD;rifampicin;rifampicin (Sandoz GmbH);;;;;;;;1
+191;Greiner 1999;https://www.ncbi.nlm.nih.gov/pubmed/10411543;po with Perpetrator (Rifampicin);Digoxin;Rifampicin;PO;PO;Plasma;0.697080292;Approx. Avg;;;0.481481481;Approx. Avg;;;0;inf;240;inf;h;;600;;mg;PO;0-(S24-T24-R15);h;MD;rifampin;"RIFA; Grünenthal GmbH";;;;;;;;1
+193;Greiner 1999;https://www.ncbi.nlm.nih.gov/pubmed/10411543;iv with Perpetrator (Rifampicin);Digoxin;Rifampicin;IV;PO;Plasma;0.853379152;Approx. Avg;;;0.834008097;Approx. Avg;;;0;inf;240;inf;h;;600;;mg;PO;0-(S24-T24-R15);h;MD;rifampin;"RIFA; Grünenthal GmbH";;;;;;;;1
+337;Larsen 2007;https://www.ncbi.nlm.nih.gov/pubmed/17365992;with Perpetrator (Rifampicin);Digoxin;Rifampicin;PO;0;Serum;0.817346939;Approx. Avg;;;;;;;0;inf;144;inf;h;;600;;mg;;0-24-48-72-96-120;h;MD;;;;;;;;;;1
+338;Larsen 2007;https://www.ncbi.nlm.nih.gov/pubmed/17365992;with Perpetrator (Ketoconazole);Digoxin;Ketoconazole;PO;0;Serum;1.091836735;Approx. Avg;;;;;;;0;inf;96;inf;h;;200;;mg;;0-24-48-72;h;MD;;;;;;;;;;1
+314;Kirby 2012;https://www.ncbi.nlm.nih.gov/pubmed/22190694;Study 1 - Staggered Administration with RIF;Digoxin;Rifampicin;PO;PO;Plasma;0.81;geo. Mean;;;0.78;geo. Mean;;;0;inf;324;inf;h;;600;;mg;PO;(S0-T24-R14);h;QD;rifampin;"300-mg capsules; Novartis";;;;;;;;1
+316;Kirby 2012;https://www.ncbi.nlm.nih.gov/pubmed/22190694;Study 2 - Simultaneous Administration with RIF;Digoxin;Rifampicin;PO;PO;Plasma;1.25;geo. Mean;;;1.55;geo. Mean;;;0;inf;360;inf;h;;600;;mg;PO;(S0-T24-R14);h;QD;rifampin;"300-mg capsules; Novartis";;;;;;;;1
+271;Jalava 1997;https://www.ncbi.nlm.nih.gov/pubmed/9421099;po with Perpetrator (Itraconazole);Digoxin;Itraconazole;0;0;Serum;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1
+173;Gorski 1998;https://www.ncbi.nlm.nih.gov/pubmed/9728893;po with Perpetrator (Clarithromycin);Midazolam;Clarithromycin;PO;PO;Whole Blood;7.142857143;Approx. Avg;;;;;;;0;inf;146;inf;h;from CL (L/hr/kg);500;;mg;PO;0-(S12-T-12-R13);h;MD;;pill;;;;;;;;1
+175;Gorski 1998;https://www.ncbi.nlm.nih.gov/pubmed/9728893;iv with Perpetrator (Clarithromycin);Midazolam;Clarithromycin;IV;PO;Whole Blood;2.666666667;Approx. Avg;;;;;;;0;inf;146;inf;h;from CL (L/hr/kg);500;;mg;PO;0-(S12-T-12-R13);h;MD;;pill;;;;;;;;1
+276;Kharasch 1997;https://www.ncbi.nlm.nih.gov/pubmed/9232132;with Perpetrator (Rifampicin);Midazolam;Rifampicin;IV;PO;Plasma;0.379310345;Approx. Avg;;;;;;;0;inf;120;inf;h;AUCR estimated from CL ratio;600;;mg;PO;0-24-48-72-96;h;MD;;;;;;;;;;1
+278;Kharasch 1997;https://www.ncbi.nlm.nih.gov/pubmed/9232132;with Perpetrator (Rifampicin);Alfentanil;Rifampicin;IV;PO;Plasma;0.363013699;Approx. Avg;;;;;;;0;inf;120.5;inf;h;AUCR estimated from CL ratio;600;;mg;PO;0-24-48-72-96;h;MD;;;;;;;;;;1
+377;Olkkola 1996;https://www.ncbi.nlm.nih.gov/pubmed/8623953;day 1 (po) with Perpetrator (Itraconazole);Midazolam;Itraconazole;PO;PO;Plasma;3.4;arith. mean;;;1.8;arith. Mean;;;0;inf;2;inf;h;;200;;mg;PO;0;h;SD;;;;;;;;;;1
+378;Olkkola 1996;https://www.ncbi.nlm.nih.gov/pubmed/8623953;day 4 (iv) with Perpetrator (Itraconazole);Midazolam;Itraconazole;IV;PO;Plasma;3.225806452;Approx. Avg;;;;;;;0;inf;74;inf;h;;200;;mg;PO;0-24-48-72;h;MD;;;;;;;;;;1
+379;Olkkola 1996;https://www.ncbi.nlm.nih.gov/pubmed/8623953;day 6 (po) with Perpetrator (Itraconazole);Midazolam;Itraconazole;PO;PO;Plasma;6.6;arith. mean;;;2.5;arith. Mean;;;0;inf;122;inf;h;;200;;mg;PO;0-24-48-72-96-120;h;MD;;;;;;;;;;1
+380;Olkkola 1996;https://www.ncbi.nlm.nih.gov/pubmed/8623953;day 1 (po) with Perpetrator (Fluconazole);Midazolam;Fluconazole;PO;PO;Plasma;2.5;arith. mean;;;2.5;arith. Mean;;;0;inf;2;inf;h;;400;;mg;PO;0;h;MD;;;;;;;;;;1
+381;Olkkola 1996;https://www.ncbi.nlm.nih.gov/pubmed/8623953;day 4 (iv) with Perpetrator (Fluconazole);Midazolam;Fluconazole;IV;PO;Plasma;2.040816327;Approx. Avg;;;;;;;0;inf;74;inf;h;;400/200;;mg;PO;"400: 0; 200: 24-48-72";h;MD;;;;;;;;;;1
+382;Olkkola 1996;https://www.ncbi.nlm.nih.gov/pubmed/8623953;day 6 (po) with Perpetrator (Fluconazole);Midazolam;Fluconazole;PO;PO;Plasma;3.6;arith. mean;;;1.7;arith. Mean;;;0;inf;122;inf;h;;400/200;;mg;PO;"400: 0; 200: 24-48-72-96-120";h;MD;;;;;;;;;;1
+370;Olkkola 1994;https://www.ncbi.nlm.nih.gov/pubmed/8181191;po with Perpetrator (Itraconazole);Midazolam;Itraconazole;PO;PO;Plasma;10.8;arith. mean;;;3.4;arith. Mean;;;0;inf;73;inf;h;;200;;mg;PO;0-24-48-72;h;MD;itraconazole;Sporanox, Orion;;;;Fasted;2;5;;1
+371;Olkkola 1994;https://www.ncbi.nlm.nih.gov/pubmed/8181191;po with Perpetrator (Ketoconazole;Midazolam;Ketoconazole;PO;PO;Plasma;15.9;arith. mean;;;4.1;arith. Mean;;;0;inf;73;inf;h;;400;;mg;PO;0-24-48-72;h;MD;ketoconazole;Nizoral, Orion;;;;Fasted;2;5;;1
+366;Olkkola 1993;https://www.ncbi.nlm.nih.gov/pubmed/8453848;po with Perpetrator (Erythromycin);Midazolam;Erythromycin;PO;PO;Plasma;4.416666667;Approx. Avg;;;2.7;Approx. Avg;;;0;inf;128;inf;h;;500;;mg;PO;(S0-T8-R16)-126-136-144-152-160;h;three times a day;erythromycin base;Etromycin, 500 mg enterotablet, Orion Pharmaceutical Company Ltd.;;200;;;;;;1
+368;Olkkola 1993;https://www.ncbi.nlm.nih.gov/pubmed/8453848;iv with Perpetrator (Erythromycin);Midazolam;Erythromycin;IV;PO;Plasma;2.166666667;Approx. Avg;;;;;;;0;inf;128;inf;h;;500;;mg;PO;(S0-T8-R16)-126-136-144-152-160;h;three times a day;erythromycin base;Etromycin, 500 mg enterotablet, Orion Pharmaceutical Company Ltd.;;200;;;;;;1
+401;Saari 2006;https://www.ncbi.nlm.nih.gov/pubmed/16580904;po with Perpetrator (Voriconazole);Midazolam;Voriconazole;PO;PO;Plasma;9.85;geo. Mean;8.23-11.79;90% CI;3.56;geo. Mean;2.85-4.44;90% CI;0;inf;37;inf;h;;400/200;;mg;PO;"400mg: 0-12; 200mg: 24-36";h;MD;voriconazole;"Vfend tablet; Pfizer";;150;The last dose of voriconazole was given at 8 AM with 150 mL of water;Fasted;11;5;;1
+404;Saari 2006;https://www.ncbi.nlm.nih.gov/pubmed/16580904;iv with Perpetrator (Voriconazole);Midazolam;Voriconazole;IV;PO;Plasma;3.61;geo. Mean;3.20-4.08;90% CI;;;;;0;inf;37;inf;h;;400/200;;mg;PO;"400mg: 0-12; 200mg: 24-36";h;MD;voriconazole;"Vfend tablet; Pfizer";;150;The last dose of voriconazole was given at 8 AM with 150 mL of water;Fasted;11;5;;1
+420;Swart 2002;https://www.ncbi.nlm.nih.gov/pubmed/11851636 ;day 10 Control with Perpetrator (Erythromycin);Midazolam;Erythromycin;IV;PO;Plasma;1.52;Approx. Avg;;;;;;;0;inf;96;inf;h;according to the methods section, AUC was calculated, but data are not given in text or tables.;500;;mg;PO;0-(S0-T6-R20);h;erythromycin was taken 4 times per day, but timing was not specified. A fixed dose interval oh tau=6h was assumed. Midazolam and lignocaine were co-administered with erythromycin.;;Capsule;;200;2x 100-mg itraconazole capsules with coated sugar spheres;;;;;1
+362;Okudaira 2007;https://www.ncbi.nlm.nih.gov/pubmed/17585116;EM 2 with Perpetrator (Erythromycin);Midazolam;Erythromycin;PO;PO;Plasma;2.32;arith. mean;0.9;arith. SD;1.818181818;Approx. Avg;;;0;inf;25;73;h;;200;;mg;PO;0-5-10.5-15-24-29-34.5-39;h;MD;erythromycin;"Erythrocin; Dainippon Pharmaceutical Co";;150;;Fed;;;standardized light breakfast at 07:20am;1
+363;Okudaira 2007;https://www.ncbi.nlm.nih.gov/pubmed/17585116;EM 4 with Perpetrator (Erythromycin);Midazolam;Erythromycin;PO;PO;Plasma;3.38;arith. mean;1.6;arith. SD;2.4;Approx. Avg;;;0;inf;73;145;h;;200;;mg;PO;0-5-10.5-15-24-29-34.5-39-48-53-58.5-63-72-77-82.5-87;h;MD;erythromycin;"Erythrocin; Dainippon Pharmaceutical Co";;150;;Fed;;;standardized light breakfast at 07:20am;1
+364;Okudaira 2007;https://www.ncbi.nlm.nih.gov/pubmed/17585116;EM 7 with Perpetrator (Erythromycin);Midazolam;Erythromycin;PO;PO;Plasma;3.38;arith. mean;1.4;arith. SD;2.345454545;Approx. Avg;;;0;inf;145;inf;h;;200;;mg;PO;0-5-10.5-15-24-29-34.5-39-48-53-58.5-63-72-77-82.5-87-96-101-106.5-111-120-125-130.5-135-144-149-154.5-159;h;MD;erythromycin;"Erythrocin; Dainippon Pharmaceutical Co";;150;;Fed;;;standardized light breakfast at 07:20am;1
+424;Templeton 2010;https://www.ncbi.nlm.nih.gov/pubmed/20739919;with Perpetrator (Itraconazole @ 50 mg);Midazolam;Itraconazole;PO;PO;Plasma;2;arith. Mean;0.6;arith. SD;;;;;0;inf;4;inf;h;;50;;mg;PO;0;h;SD;;Oral solution;;;;Fasted;;0.5;wrt. administration of midazolam;1
+425;Templeton 2010;https://www.ncbi.nlm.nih.gov/pubmed/20739919;with Perpetrator (Itraconazole @ 200 mg);Midazolam;Itraconazole;PO;PO;Plasma;4.7;arith. Mean;1.4;arith. SD;;;;;0;inf;4;inf;h;;200;;mg;PO;0;h;SD;;Oral solution;;;;Fasted;;0.5;wrt. administration of midazolam;1
+426;Templeton 2010;https://www.ncbi.nlm.nih.gov/pubmed/20739919;with Perpetrator (Itraconazole @ 400 mg);Midazolam;Itraconazole;PO;PO;Plasma;5.4;arith. Mean;1.5;arith. SD;;;;;0;inf;4;inf;h;;400;;mg;PO;0;h;SD;;Oral solution;;;;Fasted;;0.5;wrt. administration of midazolam;1
+428;Tham 2006;https://www.ncbi.nlm.nih.gov/pubmed/16628140;with Perpetrator (Ketoconazole 50 mg);Midazolam;Ketoconazole;IV;PO;Plasma;1.588235294;Approx. Avg;;;;;;;0;inf;47;inf;h;;200;;mg;PO;0-12-24-36-48-60;h;MD;ketoconazole;Janssen Cilag;;;at 8am and 8pm;;;;;1
+50;Ahonen 1995;http://www.ncbi.nlm.nih.gov/pubmed/6138081;with Perpetrator (Itraconazole);Midazolam;Itraconazole;PO;PO;Plasma;5.745098039;Approx. Avg;;;2.558823529;Approx. Avg;;;0;inf;74;inf;h;;100;;mg;PO;(S-0,T-24,R-4);h;OD;;Sporanox;;;Sporanox Janssen;;;;;1
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
