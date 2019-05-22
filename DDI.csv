@@ -90,7 +90,7 @@ ID,Study ID,Reference,Grouping,Victim,Perpetrator,Route Victim,Route Perpetrator
 425,Templeton 2010,https://www.ncbi.nlm.nih.gov/pubmed/20739919,with Perpetrator (Itraconazole @ 200 mg),Midazolam,Itraconazole,PO,PO,Plasma,4.7,arith. Mean,1.4,arith. SD,,,,,0,inf,4,inf,h,,200,,mg,PO,0,h,SD,,Oral solution,,,,Fasted,,0.5,wrt. administration of midazolam,1
 426,Templeton 2010,https://www.ncbi.nlm.nih.gov/pubmed/20739919,with Perpetrator (Itraconazole @ 400 mg),Midazolam,Itraconazole,PO,PO,Plasma,5.4,arith. Mean,1.5,arith. SD,,,,,0,inf,4,inf,h,,400,,mg,PO,0,h,SD,,Oral solution,,,,Fasted,,0.5,wrt. administration of midazolam,1
 428,Tham 2006,https://www.ncbi.nlm.nih.gov/pubmed/16628140,with Perpetrator (Ketoconazole 50 mg),Midazolam,Ketoconazole,IV,PO,Plasma,1.588235294,Approx. Avg,,,,,,,0,inf,47,inf,h,,200,,mg,PO,0-12-24-36-48-60,h,MD,ketoconazole,Janssen Cilag,,,at 8am and 8pm,,,,,1
-50,Ahonen 1995,http://www.ncbi.nlm.nih.gov/pubmed/6138081,with Perpetrator (Itraconazole),Midazolam,Itraconazole,PO,PO,Plasma,5.745098039,Approx. Avg,,,2.558823529,Approx. Avg,,,0,inf,74,inf,h,,100,,mg,PO,"(S-0,T-24,R-4)",h,OD,,Sporanox,,,Sporanox Janssen,,,,,1
+50,Ahonen 1995,http://www.ncbi.nlm.nih.gov/pubmed/8527290,with Perpetrator (Itraconazole),Midazolam,Itraconazole,PO,PO,Plasma,5.745098039,Approx. Avg,,,2.558823529,Approx. Avg,,,0,inf,74,inf,h,,100,,mg,PO,"(S-0,T-24,R-4)",h,OD,,Sporanox,,,Sporanox Janssen,,,,,1
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
