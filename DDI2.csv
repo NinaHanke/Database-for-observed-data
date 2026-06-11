@@ -1,10 +1,10 @@
 ﻿ID,Study ID,Reference,Grouping,Victim,Perpetrator,Route Victim,Route Perpetrator,Compartment,AUCR Avg,AUCR AvgType,AUCR Var,AUCR VarType,CmaxR Avg,CmaxR AvgType,CmaxR Var,CmaxR VarType,t_placebo_0,t_placebo_end,t_treatment_0,t_treatment_end,t Unit,Comment,Dose,Dose free API,Dose Unit,Route,Times of Administration,Times Unit,Comment Regimen,Administered form,Formulation type,Infusion duration [min],Water volume ingested for drug intake [mL],Comment on administration/formulation,Fasted/Fed state,Duration of fasting before drug administration [h],Duration of fasting after drug administration [h],Comment on food intake,Notghi
-1800,Boehringer 1160-0074,https://www.ncbi.nlm.nih.gov/pubmed/22946890,with Perpetrator (Verapamil),Dabigatran,Verapamil,PO,PO,Plasma,1.93,,,,2.11,,,,1,inf,1,inf,h,,120,,mg,PO,0,h,,,,,,,,,,,0
-1801,Boehringer 1160-0100,https://www.ncbi.nlm.nih.gov/pubmed/22348256,with Perpetrator (Rifampicin),Dabigatran,Rifampicin,PO,PO,Plasma,0.3,,,,0.34,,,,0,inf,192,inf,h,,600,,mg,PO,36-60-84-108-132-156-180,h,,,,,,,,,,,0
-1802,Rattanacheeworn 2021,
-1803,Prueksaritanont 2017,
-1804,Prueksaritanont 2017,
-1805,Prueksaritanont 2017,
-1806,Delavenne 2013,
-1807,Gouin-Thibault 2017,
-1808,Boehringer 1160-0082,
+1800,Boehringer 1160-0074,https://www.ncbi.nlm.nih.gov/pubmed/22946890,with Perpetrator (Verapamil),Dabigatran,Verapamil,PO,PO,Plasma,2.37,gmean,,,2.7,gmean,,,1,inf,1,inf,h,,120,,mg,PO,0,h,,,,,,,,,,,0
+1801,Boehringer 1160-0100,https://www.ncbi.nlm.nih.gov/pubmed/22348256,with Perpetrator (Rifampicin),Dabigatran,Rifampicin,PO,PO,Plasma,0.31,gmean,,,0.34,gmean,,,0,inf,192,inf,h,,600,,mg,PO,36-60-84-108-132-156-180,h,,,,,,,,,,,0
+1802,Rattanacheeworn 2021,https://www.ncbi.nlm.nih.gov/pubmed/34603040,with Perpetrator (Rifampicin),Dabigatran,Rifampicin,PO,PO,Plasma,2.22,gmean,,,1.86,gmean,,,0,inf,0,inf,h,,450,,mg,PO,0,h,,,,,,,,,,,0
+1803,Prueksaritanont 2017,https://www.ncbi.nlm.nih.gov/pubmed/27943276,with Perpetrator (Rifampicin),Dabigatran,Rifampicin,PO,PO,Plasma,2.32,gmean,,,1.79,gmean,,,72,inf,72,inf,h,,600,,mg,PO,72,h,,,,,,,,,,,0
+1804,Prueksaritanont 2017,https://www.ncbi.nlm.nih.gov/pubmed/27943276,with Perpetrator (Itraconazole),Dabigatran,Itraconazole,PO,PO,Plasma,6.92,gmean,,,6.42,gmean,,,72,inf,72,inf,h,,200,,mg,PO,0-24-48-72-96,h,,,,,,,,,,,0
+1805,Prueksaritanont 2017,https://www.ncbi.nlm.nih.gov/pubmed/27943276,with Perpetrator (Clarithromycin),Dabigatran,Clarithromycin,PO,PO,Plasma,4.02,gmean,,,4.58,gmean,,,72,inf,72,inf,h,,500,,mg,PO,0-12-24-36-48-60-72-84-96-108,h,,,,,,,,,,,0
+1806,Delavenne 2013,https://www.ncbi.nlm.nih.gov/pubmed/23210726,with Perpetrator (Clarithromycin),Dabigatran,Clarithromycin,PO,PO,Plasma,1.49,median,,,1.6,median,,,0,inf,70.5,inf,h,,500,,mg,PO,0-9-24-33-48-57-70.5,h,,,,,,,,,,,0
+1807,Gouin-Thibault 2017,https://www.ncbi.nlm.nih.gov/pubmed/27893182,with Perpetrator (Clarithromycin),Dabigatran,Clarithromycin,PO,PO,Plasma,1.97,gmean,,,1.71,gmean,,,96,inf,96,inf,h,,500,,mg,PO,0-12-24-36-48-60-72-84-96-108,h,,,,,,,,,,,0
+1808,Boehringer 1160-0082,https://www.ema.europa.eu/en/documents/product-information/pradaxa-epar-product-information_en.pdf,with Perpetrator (Clarithromycin),Dabigatran,Clarithromycin,PO,PO,Plasma,1.19,gmean,,,1.21,gmean,,,121,inf,121,inf,h,,500,,mg,PO,0-12-24-36-48-60-72-84-96-108-120-132,h,,,,,,,,,,,0
